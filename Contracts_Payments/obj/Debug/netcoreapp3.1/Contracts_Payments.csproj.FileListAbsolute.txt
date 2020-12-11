@@ -1,0 +1,13 @@
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.exe
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.deps.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.runtimeconfig.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.runtimeconfig.dev.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\bin\Debug\netcoreapp3.1\Contracts_Payments.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.csprojAssemblyReference.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.AssemblyInfoInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.AssemblyInfo.cs
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.csproj.CoreCompileInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Contracts_Payments\Contracts_Payments\obj\Debug\netcoreapp3.1\Contracts_Payments.genruntimeconfig.cache
